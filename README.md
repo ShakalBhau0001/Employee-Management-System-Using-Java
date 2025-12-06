@@ -85,14 +85,15 @@ GRANT dba TO test;
 | 2️⃣  | Create EMS project             |
 | 3️⃣  | Add JDBC driver                |
 | 4️⃣  | Create JDBC classes            |
-| 5️⃣  | Run EMS application            |
+| 5️⃣  | Run Employee Management System application            |
 | 💾   | Create database user and table |
 
 
 ---
 
 ## 👨‍💻 Author
-> **Developed by:** [Shakal Bhau ❤️]  
-> **GitHub:**  [ShakalBhau0001](https://github.com/ShakalBhau0001)
+
+> **Developed by:** **[Shakal Bhau ❤️]**  
+> **GitHub:**  **[ShakalBhau0001](https://github.com/ShakalBhau0001)**
 
 ---
