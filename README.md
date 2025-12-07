@@ -82,7 +82,7 @@ GRANT dba TO test;
 | Step | Description                    |
 | ---- | ------------------------------ |
 | 1️⃣  | Install Eclipse IDE            |
-| 2️⃣  | Create EMS project             |
+| 2️⃣  | Create Employee Management System project             |
 | 3️⃣  | Add JDBC driver                |
 | 4️⃣  | Create JDBC classes            |
 | 5️⃣  | Run Employee Management System application            |
