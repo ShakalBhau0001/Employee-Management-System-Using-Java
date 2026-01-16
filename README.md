@@ -6,7 +6,7 @@ It uses JDBC to connect to a database and allows operations such as adding, upda
 
 ## 🧰 Prerequisites
 - Java JDK 8 or above  
-- Eclipse IDE for Java Developers  
+- Eclipse IDE for Enterprise Java and Web Developers
 - Oracle Database or any other relational DB  
 - `ojdbc8.jar` JDBC driver  
 - **Employee Management System** project source code  
@@ -14,8 +14,8 @@ It uses JDBC to connect to a database and allows operations such as adding, upda
 ## ⚙️ Setup Guide
 
 ### 1️⃣ Install Eclipse IDE
-1. Download **Eclipse IDE for Java Developers**
-2. 👉 **[Eclipse Download Link](https://www.eclipse.org/downloads/packages/release/2025-09/r)**
+1. Download **Eclipse IDE for Enterprise Java and Web Developers**
+2. 👉 **[Eclipse Download Link](https://www.eclipse.org/downloads/packages/release/2025-12/r)**
 3. Select **Windows x86_64** and download the ZIP version. 
 4. After downloading, locate this file:  
    ```
@@ -93,7 +93,7 @@ GRANT dba TO test;
 
 ## 👨‍💻 Author
 
-> **Developed by:** **[Shakal Bhau ❤️]**  
+> **Developed by:** **[Shakal Bhau]**  
 > **GitHub:**  **[ShakalBhau0001](https://github.com/ShakalBhau0001)**
 
 ---
