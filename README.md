@@ -19,7 +19,7 @@ It uses JDBC to connect to a database and allows operations such as adding, upda
 3. Select **Windows x86_64** and download the ZIP version. 
 4. After downloading, locate this file:  
    ```
-   eclipse-java-2025-09-R-win32-x86_64.zip
+   eclipse-java-2025-12-R-win32-x86_64.zip
    ```  
 5. Extract the ZIP file:
    - Right-click on it  
