@@ -1,4 +1,4 @@
-## 👨‍💼 Employee-Management-System-Using-Java
+## 👨‍💼 Employee-Management-System-Using-Java (Based On Command Line Interface)
 
 ## 📘 Overview
 **Employee Management System** is a Java-based application to manage employee records.  
