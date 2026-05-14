@@ -1,4 +1,4 @@
-## 👨‍💼 Employee-Management-System-Using-Java (Based On Command Line Interface)
+## 👨‍💼 Employee-Management-System-Using-Java (Command Line Interface)
 
 ## 📘 Overview
 **Employee Management System** is a Java-based application to manage employee records.  
@@ -91,9 +91,16 @@ GRANT dba TO test;
 
 ---
 
-## 👨‍💻 Author
+## 🪪 Author
 
-> **Developed by:** **[Shakal Bhau]**  
-> **GitHub:**  **[ShakalBhau0001](https://github.com/ShakalBhau0001)**
+> **Creator: Shakal Bhau**
+
+> **GitHub: [ShakalBhau0001](https://github.com/ShakalBhau0001)**
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
 
 ---
